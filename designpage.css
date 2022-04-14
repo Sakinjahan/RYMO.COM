@@ -270,11 +270,11 @@ navbar-light.navbar-toggler {
 }
 
 #banner h4 {
-    color: #d8d8d8;
+    color: #1d1d1d;
 }
 
 #banner h1 {
-    color: #fff;
+    color: rgb(18, 17, 17);
 }
 
 #banner button {
